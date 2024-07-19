@@ -1,4 +1,11 @@
-## Hi there 👋
+## Mood Project
+
+🌱 (이 부분을 지우고 생성한 프로젝트를 적어주세요. ex. 파트명/프로젝트이름, 서버백엔드/admin-service, 서버백엔드/alarm-service )
+🌱 (이 부분을 지우고 생성한 프로젝트를 적어주세요. ex. 파트명/프로젝트이름, 서버백엔드/admin-service, 서버백엔드/alarm-service )
+🌱 (이 부분을 지우고 생성한 프로젝트를 적어주세요. ex. 파트명/프로젝트이름, 서버백엔드/admin-service, 서버백엔드/alarm-service )
+🌱 (이 부분을 지우고 생성한 프로젝트를 적어주세요. ex. 파트명/프로젝트이름, 서버백엔드/admin-service, 서버백엔드/alarm-service )
+🌱 (이 부분을 지우고 생성한 프로젝트를 적어주세요. ex. 파트명/프로젝트이름, 서버백엔드/admin-service, 서버백엔드/alarm-service )
+🌱 (이 부분을 지우고 생성한 프로젝트를 적어주세요. ex. 파트명/프로젝트이름, 서버백엔드/admin-service, 서버백엔드/alarm-service )
 
 <!--
 **Mood-Platform/Mood-Platform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
